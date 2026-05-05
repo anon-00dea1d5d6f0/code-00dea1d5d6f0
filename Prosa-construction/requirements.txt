@@ -1,0 +1,8 @@
+pandas
+pyarrow
+numpy
+tqdm
+torch
+transformers
+sentence-transformers
+openai
